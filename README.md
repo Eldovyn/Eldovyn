@@ -1,5 +1,5 @@
 ### Hello
-[![](https://visitcount.itsvg.in/api?id=eldovyn&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Eldovyn&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 📝 About Me
 My name is Adit, I'm a developer from Indonesia
 - :globe_with_meridians: BackEnd Developer
