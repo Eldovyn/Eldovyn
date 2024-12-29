@@ -1,4 +1,4 @@
-### Hello 👋 👋 👋
+### Hello 👋👋
 ![](https://komarev.com/ghpvc/?username=eldovyn)
 ## 📝 About Me
 My name is Adit, I'm a developer from Indonesia
