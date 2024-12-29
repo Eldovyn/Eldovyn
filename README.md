@@ -1,27 +1,11 @@
 ### Hello 👋👋
 ![](https://komarev.com/ghpvc/?username=eldovyn)
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-<div style="flex: 1; padding-right: 20px;">
-
 ## 📝 About Me
 My name is Adit, I'm a developer from Indonesia
-- 🌍 BackEnd Developer
-- 🌍 Web Developer
+- :globe_with_meridians: BackEnd Developer
+- :globe_with_meridians: Web Developer
 - 📝 Maintainer in [Fidea E-Commerce](https://github.com/Fidea-Ecommerce)
 - 🌱 I’m currently learning to focus BackEnd Developer
-
-</div>
-
-<div style="flex: 0.5; text-align: center;">
-
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Developer GIF" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-
-</div>
-
-</div>
-
 
 ## 🛠 Tools
 
