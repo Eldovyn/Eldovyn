@@ -1,5 +1,5 @@
 ### Hello
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![](https://komarev.com/ghpvc/?username=eldovyn)
 ## 📝 About Me
 My name is Adit, I'm a developer from Indonesia
 - :globe_with_meridians: BackEnd Developer
