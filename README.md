@@ -1,11 +1,20 @@
 ### Hello 👋👋
 ![](https://komarev.com/ghpvc/?username=eldovyn)
-## 📝 About Me
-My name is Adit, I'm a developer from Indonesia
-- :globe_with_meridians: BackEnd Developer
-- :globe_with_meridians: Web Developer
-- 📝 Maintainer in [Fidea E-Commerce](https://github.com/Fidea-Ecommerce)
-- 🌱 I’m currently learning to focus BackEnd Developer
+<div class="container">
+  <div class="about">
+    <h2>📝 About Me</h2>
+    <p>My name is Adit, I'm a developer from Indonesia</p>
+    <ul>
+      <li>🌍 BackEnd Developer</li>
+      <li>🌍 Web Developer</li>
+      <li>📝 Maintainer in <a href="https://github.com/Fidea-Ecommerce">Fidea E-Commerce</a></li>
+      <li>🌱 I’m currently learning to focus BackEnd Developer</li>
+    </ul>
+  </div>
+  <div class="gif">
+    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Developer GIF" />
+  </div>
+</div>
 
 ## 🛠 Tools
 
