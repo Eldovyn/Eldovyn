@@ -1,20 +1,27 @@
 ### Hello 👋👋
 ![](https://komarev.com/ghpvc/?username=eldovyn)
-<div class="container">
-  <div class="about">
-    <h2>📝 About Me</h2>
-    <p>My name is Adit, I'm a developer from Indonesia</p>
-    <ul>
-      <li>🌍 BackEnd Developer</li>
-      <li>🌍 Web Developer</li>
-      <li>📝 Maintainer in <a href="https://github.com/Fidea-Ecommerce">Fidea E-Commerce</a></li>
-      <li>🌱 I’m currently learning to focus BackEnd Developer</li>
-    </ul>
-  </div>
-  <div class="gif">
-    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Developer GIF" />
-  </div>
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div style="flex: 1; padding-right: 20px;">
+
+## 📝 About Me
+My name is Adit, I'm a developer from Indonesia
+- 🌍 BackEnd Developer
+- 🌍 Web Developer
+- 📝 Maintainer in [Fidea E-Commerce](https://github.com/Fidea-Ecommerce)
+- 🌱 I’m currently learning to focus BackEnd Developer
+
 </div>
+
+<div style="flex: 0.5; text-align: center;">
+
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Developer GIF" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+
+</div>
+
+</div>
+
 
 ## 🛠 Tools
 
