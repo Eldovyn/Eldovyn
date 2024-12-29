@@ -5,17 +5,12 @@
 
 <div style="flex: 1; padding-right: 20px;">
 
-## A passionate FullStack Developer from Indonesia
-
-- 🛠 I'm currently working on [Fidea E-Commerce](https://github.com/Fidea-Ecommerce)
-- 🌱 I'm currently learning **BackEnd Development**
-- 💬 Ask me about **Python, Flask, Next.js**
-- 📫 How to reach me: farras.pramudita@gmail.com
-- ⚡ Fun fact: I enjoy solving coding challenges.
-
-### Connect with me:
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eldovyn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eldovyn)
+## 📝 About Me
+My name is Adit, I'm a developer from Indonesia
+- 🌍 BackEnd Developer
+- 🌍 Web Developer
+- 📝 Maintainer in [Fidea E-Commerce](https://github.com/Fidea-Ecommerce)
+- 🌱 I’m currently learning to focus BackEnd Developer
 
 </div>
 
