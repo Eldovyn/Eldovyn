@@ -13,4 +13,4 @@ My name is Adit, I'm a developer from Indonesia
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eldovyn&radius=16&hide_border=true&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldovyn&layout=compact)
