@@ -1,4 +1,4 @@
-### Hello 👋👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=480&lines=Hi!%2C+I'am+Adit)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=eldovyn)
 ## 📝 About Me
 My name is Adit, I'm a developer from Indonesia
