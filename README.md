@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=480&lines=Hi!%2C+I'am+Adit)](https://git.io/typing-svg)
+## 📝 About Me
 - :globe_with_meridians: BackEnd Developer
 - :globe_with_meridians: Web Developer
 - 📝 Maintainer in [Fidea E-Commerce](https://github.com/Fidea-Ecommerce)
