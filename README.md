@@ -2,7 +2,6 @@
 ## 📝 About Me
 - :globe_with_meridians: BackEnd Developer
 - :globe_with_meridians: Web Developer
-- 📝 Maintainer in [Fidea E-Commerce](https://github.com/Fidea-Ecommerce)
 - 🌱 I’m currently learning to focus BackEnd Developer
 
 ## 🛠 Tools
