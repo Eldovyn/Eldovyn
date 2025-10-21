@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=480&lines=Hi👋👋%2C+I'am+Adit)](https://git.io/typing-svg)
 ## 📝 About Me
-- :globe_with_meridians: BackEnd Developer
-- :globe_with_meridians: Web Developer
-- 🌱 I’m currently learning to focus BackEnd Developer
+- :globe_with_meridians: Full Stack Developer
+- :globe_with_meridians: Bot Developer
+- :globe_with_meridians: UI/UX Design
 
 ## 🛠 Tools
 
